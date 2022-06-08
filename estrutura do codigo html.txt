@@ -1,0 +1,15 @@
+Semantica do HTML
+<!DOCTYPE html>
+diz ao navegador o q escrevemos
+<html>
+tudo q diz respeito ao documento vai estar aqui
+<head>
+meta informações (para o navegador/buscador de internet)
+<meta>
+charfetch
+<title></title> (obvio que é o titulo)
+</head> fecha o elemento head
+<body>
+conteudo da pagina web
+</body> fecha o body
+</html>
