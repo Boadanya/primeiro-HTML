@@ -1,0 +1,87 @@
+.post{
+	padding: 15px (topo) 10px(direita) 5px(baixo) 0(esquerda);
+
+}
+
+.post{
+	padding-top: 15px (topo);
+	padding-right: 10px(direita);
+	padding-bottom: 5px(baixo);
+	padding-left: 0(esquerda);
+
+}
+
+.post{
+	background: green;
+	background-image: url("bg.png");
+	background-position: top);
+	
+}
+
+.post{
+	background-color: green;
+	background-color: #008800;
+	background: #008800);
+	
+}
+
+
+.post{
+	border: 3px solid blue;
+	border-top: 2px dotted green;
+	border-right: 4px dashed pink;
+
+}
+existe tambem border-top
+border-right
+border-bottom
+border-left
+
+border-width
+border-color
+border-style
+
+ou ainda apenas as propriedades de um unico lado
+border-top-width
+border-top-color
+border-top-style
+
+.post{
+	font-family: Verdana, Arial;
+	font-size: 6px;
+	font-style: normal (padrao), italic;
+	font-weight: normal (padrao), bold;
+	font-transform: uppercase;
+	font-transform: lowercase;
+	font-transform: capitalize;
+	text-decoration: underline, overline, line-through;
+	
+
+}
+
+LISTAS E SUAS ESTILIZACOES
+
+ul (lista nao ordenada){
+
+list-style-type: square;
+
+}
+
+ol (lista ordenada){
+
+list-style-type: upper-roman;
+
+}
+
+ul (lista nao ordenada){
+
+list-style-type: "\1F44D";
+
+}
+ul (lista nao ordenada){
+
+list-style-type: url("rocket.png");
+
+}
+
+<li> cada item da lista

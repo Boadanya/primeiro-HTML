@@ -1,0 +1,45 @@
+#Seletores
+sao elementos HTML
+dentro de um par de chaves temos as comparações
+a, p, h1, h3 {  // sao os seletores
+
+*color:blue			// sao as declarações
+font-size: 14px
+
+}
+
+
+id é precedido por uma cerquilha (só pode ser usado uma vez na pagina)
+
+#header{
+padding: 15px;
+}
+
+
+classe é precedida por um ponto
+
+.header{
+padding: 10px;
+}
+
+________________________________________________________________
+
+box model
+
+representa cada elemento HTML
+CSS altera a aparencia dessa caixa
+ possui 4 propriedades
+#margem
+limites da caixa e limites entre elementos
+
+#borda
+limite de conteudo
+consegue alterar largura e cor
+
+padding
+espaçamento entre a borda e o conteudo
+
+
+conteudo
+é o q seu bloco representa
+pode ser uma imagem um texto qualquer coisa
